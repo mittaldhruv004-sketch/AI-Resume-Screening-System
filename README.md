@@ -149,6 +149,27 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
+## 🌐 Live Deployment
+
+### Streamlit Cloud (Recommended - FREE)
+
+1. **Streamlit Cloud pe jao:** https://share.streamlit.io/
+2. **GitHub se sign in karo**
+3. **New app create karo:**
+   - Repository: `kunwardhruv/AI-Resume-Screener`
+   - Branch: `main`
+   - Main file: `app.py`
+4. **Deploy!** (2-3 minutes me live ho jayega)
+
+**Live URL:** Apko Streamlit Cloud se mil jayega (jaise: `https://ai-resume-screener.streamlit.app`)
+
+**Note:** Pehli baar deployment me models download honge (5-10 minutes lag sakte hain)
+
+### Other Platforms
+- **Railway.app** - Alternative deployment option
+- **Render.com** - Another free hosting option
+- See `DEPLOYMENT.md` for detailed instructions
+
 ## 👤 Author
 
 Created with ❤️ for efficient resume screening

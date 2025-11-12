@@ -43,7 +43,8 @@ virtualenv/
 .env.local
 
 # Streamlit
-.streamlit/
+.streamlit/*
+!.streamlit/config.toml
 
 # Model files (if downloaded locally)
 *.bin
