@@ -1,3 +1,2 @@
-# This file is used by Streamlit Cloud to install system dependencies
-# Add any system packages your app needs here
-
+# Leave this file empty if no system packages are needed
+# Streamlit Cloud will install Python packages from requirements.txt
