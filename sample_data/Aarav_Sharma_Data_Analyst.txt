@@ -1,0 +1,25 @@
+AARAV SHARMA
+Data Analyst | Pune, India | aarav.sample@example.com
+
+SUMMARY
+Data Analyst with 3.5 years of professional experience transforming business data into measurable product and operations insights. Strong Python, SQL and dashboarding background.
+
+EXPERIENCE
+Data Analyst, Northstar Retail | Jan 2022 - Present
+- Built Python and Pandas data pipelines processing 2M+ transaction rows per month.
+- Wrote advanced SQL queries and optimized reporting workflows, reducing turnaround time by 35%.
+- Developed Power BI dashboards and presented statistical findings to business stakeholders.
+- Used scikit-learn for churn analysis experiments and Git for team collaboration.
+
+Junior Analyst, MetricWorks | Jul 2020 - Dec 2021
+- Automated Excel and Python reports and performed exploratory data analysis.
+- Used NumPy, SQL and descriptive statistics to validate business metrics.
+
+EDUCATION
+Bachelor of Technology in Computer Science, 2020
+
+CERTIFICATIONS
+Microsoft Certified: Power BI Data Analyst Associate
+
+SKILLS
+Python, SQL, Pandas, NumPy, statistics, data visualization, Power BI, scikit-learn, Git, communication.

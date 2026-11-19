@@ -1,0 +1,15 @@
+Data Analyst / Junior Data Scientist
+
+We are looking for a data professional with 2+ years of experience in analytics, reporting and machine learning projects.
+
+Required skills:
+- Python, SQL, Pandas and NumPy
+- Data analysis, statistics and data visualization
+- Machine learning fundamentals and scikit-learn
+- Dashboard development and communicating insights
+- Git and collaborative development
+
+Preferred qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Analytics, Statistics or a related field
+- AWS or cloud exposure is a plus
+- Strong problem-solving, stakeholder communication and documentation skills

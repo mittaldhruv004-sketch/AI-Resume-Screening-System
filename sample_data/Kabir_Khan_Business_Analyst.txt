@@ -1,0 +1,21 @@
+KABIR KHAN
+Business Analyst | Hyderabad, India | kabir.sample@example.com
+
+SUMMARY
+Business Analyst with 4 years of experience in requirements gathering, process analysis and operational reporting. Comfortable with SQL and stakeholder communication.
+
+EXPERIENCE
+Senior Business Analyst, BluePeak Services | Feb 2022 - Present
+- Gathered requirements and translated business needs into functional specifications.
+- Used SQL and Excel to analyze operational data and create weekly KPI reports.
+- Coordinated Agile ceremonies and communicated delivery risks to stakeholders.
+
+Business Analyst, BluePeak Services | Jun 2020 - Jan 2022
+- Created process maps, documented user stories and supported UAT.
+- Built basic Power BI reports and collaborated with engineering teams.
+
+EDUCATION
+Bachelor of Business Administration, 2020
+
+SKILLS
+SQL, Excel, Power BI, requirements analysis, Agile, Scrum, Jira, stakeholder management, documentation, reporting.

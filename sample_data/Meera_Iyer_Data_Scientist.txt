@@ -1,0 +1,26 @@
+MEERA IYER
+Junior Data Scientist | Bengaluru, India | meera.sample@example.com
+
+PROFILE
+Data Science professional with 2.8 years of experience building predictive models and communicating analytical findings. Enjoys experimentation and reproducible workflows.
+
+WORK EXPERIENCE
+Data Scientist, Insight Labs | Mar 2023 - Present
+- Developed classification and regression models using Python and scikit-learn.
+- Used Pandas, NumPy, SQL and statistical testing for feature engineering and evaluation.
+- Created analytical dashboards and communicated model outcomes to product teams.
+- Maintained project code with Git and documented experiments.
+
+Data Science Intern, Insight Labs | Jan 2022 - Feb 2023
+- Conducted exploratory data analysis and built baseline machine learning models.
+- Prepared datasets and visualizations for business reviews.
+
+EDUCATION
+Master of Science in Data Analytics, 2021
+Bachelor of Science in Mathematics, 2019
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+
+SKILLS
+Python, SQL, Pandas, NumPy, machine learning, scikit-learn, statistics, data analysis, data visualization, AWS, Git, Jupyter.
